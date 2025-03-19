@@ -1,4 +1,4 @@
-# 💫 About Me:
+# C'est moi:
 💻 Étudiant à 42 | Passionné par le développement web et l’apprentissage de nouvelles technos 🚀<br>Toujours partant pour explorer de nouveaux projets, qu’ils soient front, back ou full-stack.<br>Ici, tu trouveras mes expérimentations, mes défis et sûrement quelques lignes de code pas très propres 👀.<br>Let’s build something cool together! ✨
 
 
