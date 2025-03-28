@@ -1,5 +1,5 @@
 # C'est moi:
-💻 Segfaulter
+💻 42 student
 
 
 # 💻 Tech Stack:
