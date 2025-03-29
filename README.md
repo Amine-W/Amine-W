@@ -1,5 +1,5 @@
-# C'est moi:
-💻 42 student
+# 42
+
 
 
 # 💻 Tech Stack:
